@@ -17,4 +17,4 @@ Run the following command:
 wails init -n wails-hello-world -t https://github.com/almas1992/wails-amis-js-sdk-template
 ```
 
-> If you want to update amis sdk version, you can download [amis sdk](https://github.com/baidu/amis/releases) and extract to `frontend/src/assets/amis` folder, then run the `adpt-amis.sh` script in the `scripts` folder.
+> If you want to update amis sdk version, you can download [amis sdk](https://github.com/baidu/amis/releases) and extract to `frontend/src/assets/amis` folder, then run the `adapt-amis.sh` script in the `scripts` folder.
